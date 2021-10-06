@@ -138,8 +138,8 @@ Go to the list of added devices and do the following:
 
     <table>
         <tr>
-            <td ><img src="docs/_static/zh_CN/light_control.png" width="300"><p align=center>Light control interface</p></td>
-            <td ><img src="docs/_static/zh_CN/button_control.png" width="300"><p align=center>Button control interface</p></td>
+            <td ><img src="docs/_static/en/light_control.png" width="300"><p align=center>Light control interface</p></td>
+            <td ><img src="docs/_static/en/button_control.png" width="300"><p align=center>Button control interface</p></td>
         </tr>
    </table>
 
@@ -174,7 +174,7 @@ Go to the list of added devices and do the following:
             <td ><img src="docs/_static/en/add_group.png" width="300"><p align=center>Add a group</p></td>
             <td ><img src="docs/_static/en/group_name.png" width="300"><p align=center>Edit the group name</p></td>
         </tr>
-   </table>
+    </table>
 
 ### 5. User Tab
 
